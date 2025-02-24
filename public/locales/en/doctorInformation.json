@@ -1,0 +1,48 @@
+{
+  "doctor_name": "Dr. Fahad Al-Tasan",
+  "doctor_title": "Consultant in Dental Restoration and Implants",
+  "doctor_description": "Dr. Fahad Al-Tasan, an experienced consultant in the field of dental restoration and implants...",
+  "experience_years": "15",
+  "education": "King Saud University",
+  "specialties": [
+    {
+      "specialty_title": "Cosmetic Dental Restoration",
+      "specialty_description": "Restoring damaged teeth using the latest materials and techniques."
+    },
+    {
+      "specialty_title": "Dental Implants",
+      "specialty_description": "Providing permanent solutions for missing teeth through dental implants."
+    },
+    {
+      "specialty_title": "Hollywood Smile",
+      "specialty_description": "Designing the perfect smile using advanced techniques."
+    },
+    {
+      "specialty_title": "Gum Disease Treatment",
+      "specialty_description": "Addressing gum issues to improve overall oral health."
+    }
+  ],
+  "philosophy": "Dr. Fahad Al-Tasan believes that every patient deserves personalized treatment...",
+  "certifications": "Highly recognized by the Saudi Medical Association...",
+  "clinic_info": {
+    "location": "Elite Medical Clinic, Riyadh",
+    "contact": "0123456789",
+    "website": "www.eliteclinic.com"
+  },
+  "car-phisyology": "Care phisyology",
+  "cirtificate": "Cirtificate and Degree",
+  "appointment": "5.appointment and clinical location",
+  "spicials": "2.ٍAvilable specializes",
+  "serve-now": "Book Now",
+  "we-smile": "We are here to smile together!",
+  "inform": "For any inquiries or to schedule an appointment, contact us today. Our specialized team is ready to assist you with all your dental care advice and services. Let us take care of your smile!",
+  "s11-stay-at-contact": "Stay in touch with us",
+  "s10-title": "We are near you!",
+  "s10-slug": "You can easily find us at a centrally located site. Visit us today and start your journey towards a beautiful smile. We are here to serve you at any time!",
+  "s11-full-name": "Full Name",
+  "s11-phone-number": "Phone Number",
+  "s11-email": "Email",
+  "s11-message": "Message",
+  "send": "Send",
+  "loading":"Please wait...."
+}

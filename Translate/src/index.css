@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar-thumb {
+  background-color: #fd5634; /* Change to blue or any color you like */
+  border-radius: 10px; /* Adjust the radius to make it more "beautiful" */
+}
+body::-webkit-scrollbar {
+  background-color: black; /* Change to blue or any color you like */
+  width: 3px; /* Set a width for the scrollbar */
+  margin-right: 10px;
+  height: 5px;
+}
+
+.bropdown:hover .dropdown-menu {
+  display: block;
+}

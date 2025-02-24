@@ -1,0 +1,14 @@
+export { default as Home } from "./Home";
+export { default as WhySgam } from "./WhySgam";
+export { default as Doctors } from "./Doctors";
+export { default as DoctorInformation } from "./DoctorInformation";
+export { default as Experiences } from "./Experiences";
+export { default as Kids } from "./Kids";
+export { default as YourJourney } from "./YourJourney";
+export { default as SegamEnvironment } from "./SegamEnvironment";
+export { default as Services } from "./Services";
+export { default as ShowService } from "./ShowService";
+export { default as SgamBedia } from "./SgamBedia";
+export { default as ErrorPage } from "./ErrorPage";
+export { default as JourneyStep } from "./JourneyStep";
+export { default as SgamBediaPost } from "./SgamBediaPost";
